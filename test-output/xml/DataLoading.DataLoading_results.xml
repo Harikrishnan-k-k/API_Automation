@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="19.830">
+    <properties></properties>
+
+
+
+            <testcase
+                name="dataLoading"
+                time="19.830"
+                classname="DataLoading.DataLoading">
+            </testcase>
+</testsuite>

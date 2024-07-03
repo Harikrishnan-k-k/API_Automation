@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.884">
+    <properties></properties>
+
+
+
+            <testcase
+                name="putRequestNonBDD"
+                time="1.884"
+                classname="API_NonBDD.PUT_RA006">
+            </testcase>
+</testsuite>

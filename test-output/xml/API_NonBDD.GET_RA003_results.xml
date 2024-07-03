@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.966">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequestNonBDD"
+                time="1.966"
+                classname="API_NonBDD.GET_RA003">
+            </testcase>
+</testsuite>

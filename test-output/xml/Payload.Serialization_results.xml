@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.536">
+    <properties></properties>
+
+
+
+            <testcase
+                name="gsonTest"
+                time="0.240"
+                classname="Payload.Serialization">
+            </testcase>
+            <testcase
+                name="jacksonTest"
+                time="0.296"
+                classname="Payload.Serialization">
+            </testcase>
+</testsuite>

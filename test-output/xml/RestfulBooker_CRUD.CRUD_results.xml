@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.610">
+    <properties></properties>
+
+
+
+            <testcase
+                name="updateBooking"
+                time="1.610"
+                classname="RestfulBooker_CRUD.CRUD">
+            </testcase>
+</testsuite>

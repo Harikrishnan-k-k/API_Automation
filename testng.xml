@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful booker API Test Suite">
+    <test verbose="2" preserve-order="true" name="API">
+        <classes>
+           
+            <class name="API_NonBDD.GET_RA003">  </class>
+             <class name="API_NonBDD.POST_RA005">  </class>
+              <class name="API_NonBDD.PUT_RA006">  </class>
+              <class name="API_NonBDD.PATCH_RA007">  </class>
+              <class name="API_NonBDD.DELETE_RA008">  </class>
+            
+        </classes>
+    </test>
+</suite>
